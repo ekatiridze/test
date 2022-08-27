@@ -1,0 +1,37 @@
+.logo {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
+}
+.file{
+    height: 700px;
+    margin-bottom: 30px;
+}
+.text {
+  font-family: "PT Serif";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 50px;
+  position: absolute;
+  color: #FFFFFF;
+  left: 19%;
+right: 43%;
+top: calc(50% - 100px/2 + 150px);
+}
+.date{
+    position: absolute;
+height: 31px;
+left: 19%;
+right: 54%;
+top: calc(50% - 31px/2 + 274.5px);
+font-family: 'PT Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+}
+
